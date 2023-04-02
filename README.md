@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Alex)](https://git.io/typing-svg)
 
-# 📍 **About me**
+📍 **About me**
 - software engineer
 - python enjoyer
 
