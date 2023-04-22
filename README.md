@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-green?logo=gmail&logoColor=red" alt="Youtube Badge"/>
   </a>
 
-Tech stack:
+💻 Tech stack:
 
 <img src="https://img.shields.io/badge/Python-white?logo=Python&logoColor=blue" /> <img src="https://img.shields.io/badge/Django-white?logo=Django&logoColor=green" /> <img src="https://img.shields.io/badge/FastAPI-white?logo=FastAPI&logoColor=green" /> <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=black" /> <img src="https://img.shields.io/badge/Redis-white?logo=Redis&logoColor=red" /> <img src="https://img.shields.io/badge/Celery-white?logo=Celery&logoColor=green" /> <img src="https://img.shields.io/badge/Docker-white?logo=Docker&logoColor=blue" /> <img src="https://img.shields.io/badge/Nginx-white?logo=NGINX&logoColor=black" /> <img src="https://img.shields.io/badge/Linux-white?logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/mac%20os-white?logo=apple&logoColor=black" /> <img src="https://img.shields.io/badge/JWT-white?logo=json-web-tokens&logoColor=black" /> <img src="https://img.shields.io/badge/Swagger-white?logo=Swagger&logoColor=green" />
 
