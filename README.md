@@ -9,7 +9,7 @@
 - python enjoyer
 
 
-✍️ contact me:
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">contact me:
 
   <a href="https://t.me/alexdev1101">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
