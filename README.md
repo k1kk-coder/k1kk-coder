@@ -26,3 +26,5 @@
 
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=k1kk-coder&theme=transparent&hide_border=false&border_color=2AEDBE&title_color=2AEDBE&include_all_commits=false&count_private=true&layout=compact)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/k1kku)
