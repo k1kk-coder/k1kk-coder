@@ -6,6 +6,7 @@
 
 📍 **About me**
 - 💻 software engineer
+- 🤖 mlops engineer 
 - 🐍 python enjoyer
 
 
