@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2AEDBE&lines=Hi+there,+I'm+Alex)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DCDCDC&lines=Hi+there,+I'm+Alex)](https://git.io/typing-svg)
 
 <div id="header" align="left">
   <img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="150"/>
 </div>
 
 📍 **About me**
-- 💻 software engineer
+- 💻 software developer
 - 🤖 mlops engineer 
 - 🐍 python enjoyer
 
