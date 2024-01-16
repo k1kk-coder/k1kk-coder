@@ -15,6 +15,7 @@
   <a href="https://t.me/alexdev1101">
     <img src="https://img.shields.io/badge/Telegram-343434?logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
+  <br>
   <a href="mailto:alexrazumovskii11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-343434?logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
