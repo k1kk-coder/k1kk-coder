@@ -12,7 +12,7 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">contact me:
 
-  <a href="https://t.me/alexdev1101">
+  <a href="https://t.me/pykiq">
     <img src="https://img.shields.io/badge/Telegram-343434?logo=Telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
   <br>
